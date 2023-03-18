@@ -14,3 +14,9 @@ task7的step1和step2(使用比赛数据先进行无监督训练)在文件task_c
 ## 202302文件夹即2月份的知识图谱问题  
 Task1-3.ipynb是完成了规定的任务1-3  
 task4.ipynb是完成了规定的任务4  
+
+## 202303文件夹即3月份的对话意图识别问题  
+task1&2.ipynb是完成了规定的任务1-2  
+task3.ipynb是完成了规定的任务3  
+results文件夹是上述任务的结果文件，已经上传https://competition.coggle.club/进行过了测试  
+
