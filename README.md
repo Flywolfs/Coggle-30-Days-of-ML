@@ -18,6 +18,6 @@ task4.ipynb是完成了规定的任务4
 ## 202303文件夹即3月份的对话意图识别问题  
 task1&2.ipynb是完成了规定的任务1-2  
 task3.ipynb是完成了规定的任务3  
-task4.ipynb是完成了规定的任务4  
+task4.ipynb是完成了规定的任务4(使用了PaddlePaddle的LSTM)  
 results文件夹是上述任务的结果文件，已经上传https://competition.coggle.club/进行过了测试  
 
