@@ -19,5 +19,7 @@ task4.ipynb是完成了规定的任务4
 task1&2.ipynb是完成了规定的任务1-2  
 task3.ipynb是完成了规定的任务3  
 task4.ipynb是完成了规定的任务4(使用了PaddlePaddle的LSTM)  
+task5.ipynb是完成了规定的任务5  
+task6.ipynb是完成了规定的任务6  
 results文件夹是上述任务的结果文件，已经上传https://competition.coggle.club/进行过了测试  
 
